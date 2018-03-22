@@ -410,7 +410,7 @@
                     Receipt printing requires an 80mm thermal receipt printer with ESC/P or ESC/POS (Epson standard code for printers). If you need 40mm support, contact us.<p/>
                     <p>Cash draw just needs to be a standard POS/electronic cash draw. This plugs into the printer using a phone-type plug.<br/>
                     Most of these printer are ESC/P but you should check before purchasing. Android devices require a network-connected model (Ethernet or wifi).<br/>
-                    These two devices, being standard models, can be purchased cheaply off ebay. Printers can be bought for a little as ~$200, whilst cash-draws and scanners go from ~$60 and $~35 accordingly.</p>
+                    These two devices, being standard models, can be purchased cheaply off Ebay. Printers can be bought for as little as ~$200, whilst cash-draws and scanners go from ~$60 and ~$35 accordingly.</p>
                     <p>Scanner installation usually just requires you to plug the scanner into one of the USB ports on your computer. If you received instructions with the scanner, follow the manufactures directions.<br/>
                     No settings need to be modified in the terminal, you can login and scan items right away.</p>
                 </div>
